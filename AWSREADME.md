@@ -1,3 +1,8 @@
+https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-exam-with-this-free-10-hour-course/
+https://www.freecodecamp.org/news/complete-back-end-system-with-serverless/
+
+
+
 AWS big data meetup
 https://github.com/daghanacay/AWS_GlueETL_workshop
 
